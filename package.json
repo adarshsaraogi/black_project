@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/adarshsaraogi/black_project/issues"
   },
-  "homepage": "https://github.com/adarshsaraogi/black_project#readme"
+  "homepage": "https://github.com/adarshsaraogi/black_project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
